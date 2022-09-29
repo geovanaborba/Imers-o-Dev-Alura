@@ -1,0 +1,123 @@
+body {
+  font-family: 'Snap ITC',monospace;
+  background-color: #32CD99;
+  height: 100vh;
+  width: 100vw;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  overflow: hidden;
+}
+
+.container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 20px;
+  height: 100vh;
+  width: 968px;
+}
+
+.page-title {
+  color: #FFD700;
+  font-size: 60px;
+  top: 5px;
+  left:50px;
+  text-shadow: #1E90FF 4px 6px 4px;
+  margin: 0 0 5px;
+}
+
+.page-subtitle {
+  color: #ffffff;
+  margin-top: 5px;
+}
+
+.page-logo {
+  width: 170px;
+  position: absolute;
+  top: 40px;
+  right:10px;
+}
+
+/*h2 {
+  color: white;
+  text-shadow: #000 2px 3px 2px;
+  font-size: 45px;
+  position: absolute;
+  top: 630px;
+  left: 300px;
+}*/
+
+.alura-logo {
+  width: 40px;
+  position: absolute;
+  top: 10px;
+  right:10px;
+}
+
+
+.Pokemon {
+width: 450px;
+top: 5px;
+position: absolute;
+}
+
+.Eevee {
+
+}
+
+.Pikachu {
+width: 310px;
+}
+
+label {
+color: yellow;
+margin-top: 5px;
+}
+
+li {
+margin: 10px;
+}
+
+li:nth-child(1){
+  color: #416BBF;
+}
+
+li:nth-child(2){
+color: #FAC705;
+}
+
+li:nth-child(3){
+color: #416BBF;
+}
+
+input {
+font-family: 'Snap ITC', cursive;
+font-size: 14pt;
+border: 3px solid #000;
+margin-top: 5px;
+padding: 5px;
+text-align: center;
+-webkit-appearance: none;
+}
+
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+-webkit-appearance: none;
+margin: 0;
+}
+
+input[type="number"] {
+-moz-appearance: textfield;
+}
+
+
+.btn-ok{
+margin: 10px;
+background-color: #D1D5D8;
+}
+
+.btn-ok:hover {
+background-color: #b2b9be;
+transform: scale(1.05);
+}
