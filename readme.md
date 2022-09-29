@@ -10,25 +10,27 @@
 <hr>
 <br>
 
-💰 [Conversor de Moedas]()
+📈 [Projeto 1 - Calculadora de Média](https://geovanaborba.github.io/Imersao-Dev-Alura/Projeto%201%20-%20Calculadora%20de%20M%C3%A9dia/)
 
-📇 [Calculadora (com Prompt)]()
+💰 [Projeto 2 - Conversor de Moedas](https://geovanaborba.github.io/Imersao-Dev-Alura/Projeto%202%20-%20Conversor%20de%20Moedas/)
 
-📈 [Calculadora de Média]()
+💰 [Projeto 2.1 - Conversor de Moedas](https://geovanaborba.github.io/Imersao-Dev-Alura/Projeto%202.1%20-%20Conversor%20de%20Moedas/)
 
-👀 [Quem é esse Pokémon?]()
+🔮 [Projeto 3 - Mentalista](https://geovanaborba.github.io/Imersao-Dev-Alura/Projeto%203%20-%20Mentalista/)
 
-🔮 [Mentalista]()
+🎬 [Projeto 4 - AluraFlix](https://geovanaborba.github.io/Imersao-Dev-Alura/Projeto%204%20-%20AluraFlix/)
 
-🎬 [AluraFlix]()
+📺 [Projeto 4.1 - Aluraflix com botão de adicionar filme à lista](https://geovanaborba.github.io/Imersao-Dev-Alura/Projeto%204.1%20-%20AluraFlix%20com%20bot%C3%A3o%20Adicionar%20filme/)
 
-📺 [Aluraflix com botão de adicionar filme à lista]()
+🏆 [Projeto 5 - Tabela de classificação](https://geovanaborba.github.io/Imersao-Dev-Alura/Projeto%205%20-%20Tabela%20de%20classifica%C3%A7%C3%A3o/)
 
-🏆 [Tabela de classificação]()
+🃏 [Projeto 6 - Super Trunfo](https://geovanaborba.github.io/Imersao-Dev-Alura/Projeto%206%20-%20Super%20Trunfo/)
 
-🃏 [Super Trunfo]()
+📇 [Projeto 7 - Calculadora (com Prompt)]()
 
-👩🏽‍💻 [Portfolio]()
+👀 [Projeto 8 - Quem é esse Pokémon?]()
+
+👩🏽‍💻 [Projeto 9 - Portfolio]()
 
 <br>
 
