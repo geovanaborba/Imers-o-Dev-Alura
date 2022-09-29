@@ -26,11 +26,11 @@
 
 🃏 [Projeto 6 - Super Trunfo](https://geovanaborba.github.io/Imersao-Dev-Alura/Projeto%206%20-%20Super%20Trunfo/)
 
-📇 [Projeto 7 - Calculadora (com Prompt)]()
+📇 [Projeto 7 - Calculadora (com Prompt)](https://geovanaborba.github.io/Imersao-Dev-Alura/Projeto%207%20-%20Calculadora/)
 
-👀 [Projeto 8 - Quem é esse Pokémon?]()
+👀 [Projeto 8 - Quem é esse Pokémon?](https://geovanaborba.github.io/Imersao-Dev-Alura/Projeto%208%20-%20Quem%20%C3%A9%20esse%20Pok%C3%A9mon/)
 
-👩🏽‍💻 [Projeto 9 - Portfolio]()
+👩🏽‍💻 [Projeto 9 - Portfolio](https://geovanaborba.github.io/Imersao-Dev-Alura/Projeto%209%20-%20Portfolio/)
 
 <br>
 
